@@ -95,13 +95,5 @@ public class Emp_New {
 	public void setDesg(String desg) {
 		this.desg = desg;
 	}
-	@Override
-	public String toString() {
-		return "Emp_New [id=" + id + ", name=" + name + ", gender=" + gender + ", mobile=" + mobile + ", email=" + email
-				+ ", pwd=" + pwd + ", city=" + city + ", salary=" + salary + ", company=" + company + ", desg=" + desg
-				+ "]";
-	}
-	
-	
 
 }
