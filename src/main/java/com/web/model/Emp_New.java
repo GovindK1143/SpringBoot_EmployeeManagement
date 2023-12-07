@@ -18,24 +18,9 @@ public class Emp_New {
 	private double salary;
 	private String company;
 	private String desg;
-	/**
-	 * 
-	 */
 	public Emp_New() {
 		super();
 	}
-	/**
-	 * @param id
-	 * @param name
-	 * @param gender
-	 * @param mobile
-	 * @param email
-	 * @param pwd
-	 * @param city
-	 * @param salary
-	 * @param company
-	 * @param desg
-	 */
 	public Emp_New(Integer id, String name, String gender, String mobile, String email, String pwd, String city,
 			double salary, String company, String desg) {
 		super();
